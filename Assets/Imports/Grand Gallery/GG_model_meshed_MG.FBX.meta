@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: 1bffd17fc070ed9459e8052a0a828aa1
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A Musical Group, ca. 1730
+    second: {fileID: 2100000, guid: 4115ea3d6c088f44dbc42465b7b80fdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A View of Paris from the Louvre, 1835
+    second: {fileID: 2100000, guid: d4c85a49cb7227047ae56298554b7c28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Allegorical Portrait of a Lady as Fortune, ca. 1674-1679
+    second: {fileID: 2100000, guid: e73264cfc7f27b546940879fc3178184, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architectural Fantasy, ca. 1802-1808
+    second: {fileID: 2100000, guid: 91a189a60d9129f4480e2cf5828b17e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arsenal in a Ruined Basilica, ca. 1711-1720
+    second: {fileID: 2100000, guid: 6fe143130a55eae46a6d878b8ff1372a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 66073074ff8c06b4b88abd8012bca9ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Charity, ca. 1550
+    second: {fileID: 2100000, guid: af32e34672df7e34085286376d78a007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Christ at the Column, ca. 1635
+    second: {fileID: 2100000, guid: d399743628a21074a957555784546272, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Custom
+    second: {fileID: 2100000, guid: 923aa7722a9458a42b58e75d6b317d19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Esther and Mordecai, ca. 1685
+    second: {fileID: 2100000, guid: de698a22ebca0bb4b9680382a42d67f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frames
+    second: {fileID: 2100000, guid: 4f93039905bcba34d96bb4e0263bd6c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold Paint
+    second: {fileID: 2100000, guid: 74d2b197f0247694d80b8f86b8bf9f1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hagar and Ishmael, ca. 1640
+    second: {fileID: 2100000, guid: 3311b16c62182ca489db03f443332cec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_58
+    second: {fileID: 2100000, guid: 049d5d844051a4a4386e2ee99f737fd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PaintBright 2
+    second: {fileID: 2100000, guid: 4495160ea4fede44f9cb17aace35be56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parquet
+    second: {fileID: 2100000, guid: 9fcd06f2a8cbb3a4dbba74623342e4e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Portrait of Antoine-Georges-Fran\xE7ois de Chabaud-Latour and His Family,
+        1806"
+    second: {fileID: 2100000, guid: 8ae938a20bb4f864f8367fe502a14e4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Portrait of Lady Sarah Ingestre, ca. 1827-1828
+    second: {fileID: 2100000, guid: dc033cbef43967745844489e9bc6af2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Portrait of a Cavalier with his Hunting Dogs, ca. 1570-1580
+    second: {fileID: 2100000, guid: d15b6f4c151eff942b7da839bbef4429, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Portrait of a Lady of the Hampden Family, ca. 1610
+    second: {fileID: 2100000, guid: be7c8dd00e180394fb1ad2a346c603ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Still Life with Figure, ca. 1660
+    second: {fileID: 2100000, guid: 15516614965ab3f4ba519b3a9d2ab012, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The Angel of Fame, ca. 1750
+    second: {fileID: 2100000, guid: 403167c4a6a67a14892d090cfe3c509b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The Death of Camilla, 1785
+    second: {fileID: 2100000, guid: 54e9becf6cf53da4eb53d9135a65610b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The Ferry Boat, 1645
+    second: {fileID: 2100000, guid: dfc8a9d405429064b88085fe97f59657, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The Marriage of Peleus and Thetis, 1610
+    second: {fileID: 2100000, guid: 573838f3f7265894ba9e448e2e7ea67c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The Resurrection of Christ, ca. 1640
+    second: {fileID: 2100000, guid: 889a1b9e227c0504da83a9c93a81f3a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The Supper at Emmaus, ca. 1650 (1)
+    second: {fileID: 2100000, guid: 195a37eb390bab646b17eeb3834da08c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The Virgin and Child Appearing to Saint Francis of Assisi
+    second: {fileID: 2100000, guid: bcafa86407d785a4496caeb0e61883ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Thomas Estcourt, Esq., 1772
+    second: {fileID: 2100000, guid: e2fa9b4e0f0c9d84f91aca68a114f2e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall Paint Blue
+    second: {fileID: 2100000, guid: 89c19d1e6a55e0746beb9c8958f5ac16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallDecor
+    second: {fileID: 2100000, guid: 0bd065efa71deb34fb6e2ec5a9b630b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallPaintBright
+    second: {fileID: 2100000, guid: 3d39e23a5fc9b3245b360d4b0047a90d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wisdom and Strength, ca. 1565-1580
+    second: {fileID: 2100000, guid: 0063fb1d5f4bd874bb3c3beb2b11c99f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Ottoman
+    second: {fileID: 2100000, guid: 0d9eccc7f2de45c489057daa4147622e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cement.jpg
+    second: {fileID: 2100000, guid: 67ce48e677203da43a93664d87a47acf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fabric.jpg
+    second: {fileID: 2100000, guid: b6db6cda87f808c4ea7ce0d3b9937623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material0
+    second: {fileID: 2100000, guid: 65495e570838ad24ab97b92909819655, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material0 (1)
+    second: {fileID: 2100000, guid: 0ad66c33d35dc254fa8a6c3d6b957813, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material0 (2)
+    second: {fileID: 2100000, guid: 1ce5a0fbf62faa64bafd4bad6b428b84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material0 (3)
+    second: {fileID: 2100000, guid: 168acb71c276fb24ab99d71464bfb76f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material0 (5)
+    second: {fileID: 2100000, guid: 401a6906ada8a8448a284070a0193504, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 28_slab marble fantasy gold texture-seamless
+    second: {fileID: 2800000, guid: f936d7b5d7c3b2347a71d0866a53bcfb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A Musical Group, ca. 1730
+    second: {fileID: 2800000, guid: 8968610187d00334fb9b89efe963c519, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A View of Paris from the Louvre, 1835
+    second: {fileID: 2800000, guid: 3a5eecf7916d7674caf1285f4e97c677, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Allegorical Portrait of a Lady as Fortune, ca. 1674-1679
+    second: {fileID: 2800000, guid: 1ee15fdb1216b094dab0a104e931a0fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angel of Fame MG ca1750
+    second: {fileID: 2800000, guid: 06979c72facf9cc4297363fd789a47b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Architectural Fantasy, ca. 1802-1808
+    second: {fileID: 2800000, guid: 80419dc7797e148429b16022dde46584, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arsenal in a Ruined Basilica, ca. 1711-1720
+    second: {fileID: 2800000, guid: 38b8ffa9426280f4c81713500e1cb1d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Charity, ca. 1550
+    second: {fileID: 2800000, guid: 145d2ae6d9e6f904c85c752c9cbbef05, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Christ at the Column, ca. 1635
+    second: {fileID: 2800000, guid: fc883ff1ff293d14bb8cb4621fb077ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Esther and Mordecai, ca. 1685
+    second: {fileID: 2800000, guid: 3a41437443731df4999ec6cc6cfa05b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GGFloor
+    second: {fileID: 2800000, guid: 53bd44f3764799747b53b7d9f8cf497f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GGLongWall1
+    second: {fileID: 2800000, guid: d32855ea75cc6dd44abf868bc0b44f70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GGLongWall2
+    second: {fileID: 2800000, guid: 45a32cf8affdd1343a69f1aa3183a769, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GGShortWall1
+    second: {fileID: 2800000, guid: 4ec08ba841fc4b0428e8adcdf5f3b684, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GGShortWall2
+    second: {fileID: 2800000, guid: 807adf2bd3b0c0143a8cebaec8256808, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hagar and Ishmael, ca. 1640
+    second: {fileID: 2800000, guid: 1a16bac699c0f3d4fa635be561f0953e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "Portrait of Antoine-Georges-Fran\xE7ois de Chabaud-Latour and His Family,
+        1806"
+    second: {fileID: 2800000, guid: 09d214b453273ee4aa66fb8559a1ad7c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Portrait of Lady Sarah Ingestre, ca. 1827-1828
+    second: {fileID: 2800000, guid: a08bdb82a0af175429ab4c23ba8c1cf3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Portrait of a Cavalier with his Hunting Dogs, ca. 1570-1580
+    second: {fileID: 2800000, guid: 3550c83cfd4cc864383a3383bee0b94b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Portrait of a Lady of the Hampden Family, ca. 1610
+    second: {fileID: 2800000, guid: a56a54beb8e3da34d909c625bcbc964a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Still Life with Figure, ca. 1660
+    second: {fileID: 2800000, guid: 104805463cf906943a2ad0cb598cf44f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: The Death of Camilla, 1785
+    second: {fileID: 2800000, guid: 43247768b18d9c5498db8bd1e0d14305, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: The Ferry Boat, 1645
+    second: {fileID: 2800000, guid: 23ce5f9c1ad06a840aee082ee56fc052, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: The Marriage of Peleus and Thetis, 1610
+    second: {fileID: 2800000, guid: fe4da16733023cb45b7ff2152a80f08f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: The Resurrection of Christ, ca. 1640
+    second: {fileID: 2800000, guid: aece37cac45447544af161c6410be4ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: The Supper at Emmaus, ca. 1650
+    second: {fileID: 2800000, guid: 4d1eb7b06cde35e47aea7ceca7e214f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: The Virgin and Child Appearing to Saint Francis of Assisi
+    second: {fileID: 2800000, guid: 8bed33c35a0236641b54b1728d795fb1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Thomas Estcourt, Esq., 1772
+    second: {fileID: 2800000, guid: 150754bf8878008439bd55aff7a9d6b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WallDecor
+    second: {fileID: 2800000, guid: 902b90ea8ab5e3c4fb351d21405c2b7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wisdom and Strength, ca. 1565-1580
+    second: {fileID: 2800000, guid: 8648f103c8148d94783cecb739e3b461, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cement
+    second: {fileID: 2800000, guid: 1e29885d5d1b1224fb18bcb50f5424b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fabric
+    second: {fileID: 2800000, guid: b52cceda7a317a64e838849b3b206f6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: texture2
+    second: {fileID: 2800000, guid: 996244345eb404e49be7b42300f13795, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
