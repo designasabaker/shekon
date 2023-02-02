@@ -13,6 +13,7 @@ public class BeaconManager : MonoBehaviour
 
     [Header("Caption Settings")]
     public TextMeshProUGUI captionText;
+    public float waitingTime = 0.01f;
     public string captionContentIndignous;
     public string captionContentEnglish;
 
@@ -30,7 +31,8 @@ public class BeaconManager : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
+    {   
+        if (lookAtTarget == null)return;
         transform.LookAt(lookAtTarget.transform);
     }
 
@@ -63,14 +65,13 @@ public class BeaconManager : MonoBehaviour
         foreach(char c in captionContentIndignous.ToCharArray())
         {
             captionText.text += c;
-            yield return new WaitForSeconds(0.01f);
+            yield return new WaitForSeconds(waitingTime);
         }
-        captionText.text = "";
+        captionText.text += "\n";
         foreach (char c in captionContentEnglish.ToCharArray())
         {
             captionText.text += c;
-            yield return new WaitForSeconds(0.01f);
+            yield return new WaitForSeconds(waitingTime);
         }
-        StartCoroutine(TypeCaption());
     }
 }

@@ -9,13 +9,13 @@ public class ExitManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        lookAtTarget = GameObject.FindGameObjectWithTag("Player");
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        transform.LookAt(lookAtTarget.transform.position);
+
     }
 
     private void OnTriggerEnter(Collider other)
