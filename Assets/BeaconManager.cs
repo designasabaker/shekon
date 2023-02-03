@@ -14,7 +14,7 @@ public class BeaconManager : MonoBehaviour
     [Header("Caption Settings")]
     public TextMeshProUGUI captionText;
     public float waitingTime = 0.01f;
-    public string captionContentIndignous;
+    public string captionContentIndigenous;
     public string captionContentEnglish;
 
     private void Awake()
@@ -31,9 +31,13 @@ public class BeaconManager : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {   
-        if (lookAtTarget == null)return;
+    {
+        if (lookAtTarget == null) {
+            Debug.LogError("null lookAtTarget");
+            return;
+        };
         transform.LookAt(lookAtTarget.transform);
+        Debug.Log("look at player");
     }
 
     private void OnTriggerEnter(Collider other)
@@ -62,7 +66,7 @@ public class BeaconManager : MonoBehaviour
     IEnumerator TypeCaption()
     {
         captionText.text = "";
-        foreach(char c in captionContentIndignous.ToCharArray())
+        foreach(char c in captionContentIndigenous.ToCharArray())
         {
             captionText.text += c;
             yield return new WaitForSeconds(waitingTime);

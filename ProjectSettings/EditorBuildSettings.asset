@@ -23,9 +23,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/BNG Framework/Scenes/Quest Demo.unity
     guid: eac0312c32df12949a47d07747a9d1cd
-  - enabled: 1
-    path: Assets/Scenes/IndignousSceneGX.unity
+  - enabled: 0
+    path: Assets/Scenes/Archive/IndignousSceneGX1.0.unity
     guid: 776569c896bfdda4f835b65d5cef2019
+  - enabled: 1
+    path: Assets/Scenes/IndignousSceneGX1.2LightScene.unity
+    guid: 0323ba09e9fa7124dbbe95acd58f4c10
+  - enabled: 1
+    path: Assets/Scenes/IndignousSceneGX1.2DarkScene.unity
+    guid: d874ff9fffcac98439e32525d6474b19
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 15f4fa9482c052a46ba96e4f79fd19ca,
       type: 2}

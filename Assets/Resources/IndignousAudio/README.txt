@@ -1,7 +1,9 @@
 https://earth.google.com/web/@43.058656,-80.135355,221a,21931d,35y,156h,45t,0r/data=CikSJxIgYTY1Y2U1NTk3MzE4MTFlOTkzN2RjN2JkNTNhNDc1ZGIiA0tBTg
 
+Our language and culture is the window through which we see the world. Said by Paul Disain, Dene Elder, Stony Rapids, SK
+Dene Elder Paul Disain
 ----------------------------------------------------
-KAN 1 2 3
+KAN 1 2 3   Mohawk
 Kanien'kéha (Mohawk); Nicole Bilodeau, Ohsweken, Canada
 1 
 Greeting
