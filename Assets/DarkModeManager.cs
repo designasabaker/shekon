@@ -66,10 +66,10 @@ public class DarkModeManager : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("enter trigger");
+        //Debug.Log("enter trigger");
         if (!other.gameObject.CompareTag("Player"))
         {
-            Debug.Log("Quit OnTriggerEnter");
+            //Debug.Log("Quit OnTriggerEnter");
             return;
         }
         /*
@@ -84,7 +84,7 @@ public class DarkModeManager : MonoBehaviour
             SetActiveGameObjects(lightModeGameObjects, false);
             // gameObject.SetActive(false);
             */
-            StartCoroutine( LoadNextScene("IndignousSceneGX1.2DarkScene"));
+            StartCoroutine(LoadNextScene("IndignousSceneGX1.2DarkScene"));
         }
         else
         {
@@ -110,10 +110,10 @@ public class DarkModeManager : MonoBehaviour
 
     IEnumerator LoadNextScene(string nextSceneName)
     {
-        Debug.Log("loading...");
+        //Debug.Log("loading...");
         if (blockImgAnim != null) {
             blockImgAnim.SetTrigger("TriggerSceneEnd");
-            Debug.Log("Showing scene end animation");
+            //Debug.Log("Showing scene end animation");
          };
         yield return new WaitForSeconds(1f);
         SceneManager.LoadScene(nextSceneName);
